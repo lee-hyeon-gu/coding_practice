@@ -7,7 +7,7 @@ print(answer_list)
 
 count=1 
  
-for count in range(10) :
+for i in range(10) :
     ball=0
     strike=0
     
